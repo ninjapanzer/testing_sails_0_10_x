@@ -1,0 +1,56 @@
+{
+  "name": "testing-sails-x-10",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Something to test the world of sails",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "debug": "node debug app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ninjapanzer/testing_sails"
+  },
+  "keywords": [
+    "sails",
+    "node",
+    "hack"
+  ],
+  "author": "Paul Scarrone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ninjapanzer/testing_sails/issues"
+  },
+  "homepage": "https://github.com/ninjapanzer/testing_sails",
+  "dependencies": {
+    "sails": "^0.10.0-rc9",
+    "sails-disk": "~0.10.0",
+    "waterlock": "0.0.10",
+    "waterlock-local-auth": "0.0.5",
+    "protractor": "1.0.0-rc6",
+    "grunt": "0.4.1",
+    "sails-disk": "~0.9.0",
+    "ejs": "0.8.4",
+    "optimist": "0.3.4",
+    "node-bourbon": "~1.2.3",
+    "node-neat": "~1.3.0",
+    "jade": "^1.4.2",
+    "marked": "^0.3.2",
+    "rc": "~0.3.3",
+    "include-all": "~0.1.3",
+    "grunt": "0.4.2",
+    "grunt-sync": "~0.0.4",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-sass": "^0.7.3",
+    "grunt-contrib-clean": "~0.5.0",
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-sails-linker": "~0.9.5",
+    "grunt-contrib-jst": "~0.6.0",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-uglify": "~0.4.0",
+    "grunt-contrib-cssmin": "~0.9.0",
+    "grunt-contrib-less": "0.11.1",
+    "grunt-contrib-coffee": "~0.10.1"
+  }
+}
